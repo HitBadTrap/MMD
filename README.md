@@ -79,4 +79,17 @@ mesh = pyrender.Mesh.from_trimesh(mesh, smooth=False)
 * [AGRoL](https://github.com/facebookresearch/AGRoL)
 
 
+## Citation
+If you want to cite our work, please use this:
+
+```
+@inproceedings{dong2024realistic,
+  title={Realistic Full-Body Motion Generation from Sparse Tracking with State Space Model},
+  author={Dong, Kun and Xue, Jian and Niu, Zehai and Lan, Xing and Lv, Ke and Liu, Qingyuan and Qin, Xiaoyu},
+  booktitle={ACM Multimedia 2024}
+}
+
+```
+
+
 Open an issue or mail me directly in case of any queries or suggestions.
